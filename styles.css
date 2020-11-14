@@ -140,8 +140,13 @@ a:hover{
 
 }
 
-#prob{
-    padding: 0%!important;
+.prob{
+    padding-bottom: 0%!important;
+}
+
+.core{
+    width: 95%;
+    padding: 2%;
 }
 
 #dif{
